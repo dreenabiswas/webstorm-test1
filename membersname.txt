@@ -5,3 +5,5 @@ i am trying something because i am not sure what is goung on
 
 ok fine i understand somethimng now
 again trying to push
+
+dr1 working. able to commit.
