@@ -29,8 +29,8 @@
       <file leaf-file-name="membersname.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/membersname.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29198474" vertical-offset="0" max-vertical-offset="524">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.35687023" vertical-offset="0" max-vertical-offset="524">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -204,7 +204,11 @@
       <created>1398766472721</created>
       <updated>1398766472721</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="dr1 try commit again">
+      <created>1398766493970</created>
+      <updated>1398766493970</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -272,7 +276,8 @@
     <MESSAGE value="dr1 try1" />
     <MESSAGE value="dr1 try2" />
     <MESSAGE value="dr1 try commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dr1 try commit" />
+    <MESSAGE value="dr1 try commit again" />
+    <option name="LAST_COMMIT_MESSAGE" value="dr1 try commit again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -280,8 +285,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/membersname.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29198474" vertical-offset="0" max-vertical-offset="524">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.35687023" vertical-offset="0" max-vertical-offset="524">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding />
         </state>
       </provider>
