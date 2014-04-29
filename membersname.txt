@@ -1,4 +1,4 @@
 This file contains names of members. create respective branches to add to this file
 
 1. Dreena Biswas
-2. Madhuri Koti is 2nd member
+2. Madhuri Koti
